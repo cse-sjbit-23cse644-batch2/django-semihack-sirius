@@ -17,7 +17,7 @@ Pradyumna HN
 
 Kumar Saurya
 
-Live URL: (To be added after deployment)
+Live URL: (django-semihack-sirius.onrender.com)
 
 🎯 Project Overview
 
